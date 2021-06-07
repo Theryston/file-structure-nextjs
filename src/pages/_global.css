@@ -1,0 +1,22 @@
+/* @import '../common/ButtonUI/_button.css'; */
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: inherit; */
+}
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+body {
+  box-sizing: border-box;
+}
+body {
+  font-size: 1.6rem;
+  line-height: 1.7;
+  font-family: 'Poppins', sans-serif;
+  color: #23232c;
+}
